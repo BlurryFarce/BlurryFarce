@@ -5,7 +5,7 @@
 
 
 ## About Me
-I am a passionate and ambitious software developer with a strong interest in building innovative applications. I have a Bachelor's degree in Computer Engineering and I am currently pursuing a Post Graduate Certificate in Software and Information Systems Testing from Fanshawe College.
+I am a passionate and ambitious software developer with a strong interest in building innovative applications. I have a Bachelor's degree in Computer Engineering and I am currently pursuing a Post Graduate Certificate in Web Development from Humber College.
 
 - :telescope: I am actively seeking opportunities as a software developer intern.
 
