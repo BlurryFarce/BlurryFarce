@@ -1,5 +1,5 @@
 <h1 align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1YzRrdG00d2Y2Y2FpbXowdjMzemdsaXN2cjBrZDhqZW9qYWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7PqybW5BjSLB6BvSiX/giphy.gif" width="30px" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1YzRrdG00d2Y2Y2FpbXowdjMzemdsaXN2cjBrZDhqZW9qYWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7PqybW5BjSLB6BvSiX/giphy.gif" width="100px" />
   I'm Vaibhav Baria
 </h1>
 
@@ -56,7 +56,7 @@ I put a lot of time into learning, experimenting, and just playing with new tech
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
 </p>
 
 Give me a weird bug, a rough edge in the UI and a bit of time, and I’m happy.
@@ -69,5 +69,5 @@ Give me a weird bug, a rough edge in the UI and a bit of time, and I’m happy.
 Thanks for checking out my GitHub. If you ever want to chat about dev, games, or anime, feel free to reach out.
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN5YmRpaXZpc202dzhncnB1aGZ1c3d0d2U5Zmx4dmFvZDN1cTNrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lo0DscpPxziZYupyS8/giphy.gif" width="80" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN5YmRpaXZpc202dzhncnB1aGZ1c3d0d2U5Zmx4dmFvZDN1cTNrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Lo0DscpPxziZYupyS8/giphy.gif" width="160" />
 </p>
