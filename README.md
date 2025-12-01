@@ -1,5 +1,5 @@
-<h1 align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1YzRrdG00d2Y2Y2FpbXowdjMzemdsaXN2cjBrZDhqZW9qYWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7PqybW5BjSLB6BvSiX/giphy.gif" width="100px" />
+<h1 align="left" align-items="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1YzRrdG00d2Y2Y2FpbXowdjMzemdsaXN2cjBrZDhqZW9qYWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7PqybW5BjSLB6BvSiX/giphy.gif" width="150px" />
   I'm Vaibhav Baria
 </h1>
 
@@ -10,15 +10,11 @@ I enjoy taking ideas, turning them into working features, and then slowly polish
 
 I put a lot of time into learning, experimenting, and just playing with new tech. Most of my work lives in the web dev world, with a growing interest in game development.
 
----
-
 ## 🔭 What I'm working on right now
 
 - Building core product features at an edtech startup, across frontend and backend
 - Improving my full-stack skills with React, Next.js, Node, and TypeScript
 - Exploring game development and prototyping small game ideas in my free time
-
----
 
 ## 🧰 Things I like working with
 
@@ -60,8 +56,6 @@ I put a lot of time into learning, experimenting, and just playing with new tech
 </p>
 
 Give me a weird bug, a rough edge in the UI and a bit of time, and I’m happy.
-
----
 
 ## 📫 Find me here
 - LinkedIn: [linkedin.com/in/vaibhavbaria](https://www.linkedin.com/in/vaibhavbaria/)  
