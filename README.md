@@ -1,7 +1,11 @@
-<h1 align="left" align-items="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1YzRrdG00d2Y2Y2FpbXowdjMzemdsaXN2cjBrZDhqZW9qYWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7PqybW5BjSLB6BvSiX/giphy.gif" width="150px" />
-  I'm Vaibhav Baria
-</h1>
+<div style="display: flex; align-items: center; gap: 12px;">
+  <img
+    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1YzRrdG00d2Y2Y2FpbXowdjMzemdsaXN2cjBrZDhqZW9qYWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7PqybW5BjSLB6BvSiX/giphy.gif"
+    width="150px"
+  />
+  <h1>I'm Vaibhav Baria</h1>
+</div>
+
 
 ## 🌱 About me
 
@@ -58,7 +62,7 @@ I put a lot of time into learning, experimenting, and just playing with new tech
 Give me a weird bug, a rough edge in the UI and a bit of time, and I’m happy.
 
 ## 📫 Find me here
-- LinkedIn: [linkedin.com/in/vaibhavbaria](https://www.linkedin.com/in/vaibhavbaria/)  
+[LinkedIn](https://www.linkedin.com/in/vaibhavbaria/)  
 
 Thanks for checking out my GitHub. If you ever want to chat about dev, games, or anime, feel free to reach out.
 
