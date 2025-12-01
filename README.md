@@ -1,10 +1,10 @@
-<div style="display: flex; align-items: center; gap: 12px;">
+<h1 style="display: flex; align-items: center; gap: 12px; margin: 0;" align="left">
   <img
     src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGI1YzRrdG00d2Y2Y2FpbXowdjMzemdsaXN2cjBrZDhqZW9qYWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7PqybW5BjSLB6BvSiX/giphy.gif"
     width="150px"
   />
-  <h1 style="margin: 0;">I'm Vaibhav Baria</h1>
-</div>
+  <span>I'm Vaibhav Baria</span>
+</h1>
 
 ## 🌱 About me
 
