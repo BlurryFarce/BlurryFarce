@@ -10,6 +10,7 @@
       <h1>I'm Vaibhav Baria</h1>
     </td>
   </tr>
+</table>
 
 ## 🌱 About me
 
