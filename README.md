@@ -8,10 +8,8 @@
 
 ## 🌱 About me
 
-I'm a software engineer who likes building things that feel smooth to use and make sense under the hood.  
-I enjoy taking ideas, turning them into working features, and then slowly polishing them until they feel right.
-
-I put a lot of time into learning, experimenting, and just playing with new tech. Most of my work lives in the web dev world, with a growing interest in game development.
+I’m a software engineer who enjoys taking ideas, turning them into working code and then slowly leveling them up.
+Most of my time goes into full stack web development, but I also like poking at game dev, strange bugs and side projects that feel like little puzzles to solve.
 
 ## 🔭 What I'm working on right now
 
